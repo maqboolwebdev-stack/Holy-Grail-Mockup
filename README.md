@@ -9,3 +9,6 @@ The grid structure is used to organize all major sections of the page, including
 - **Primary content section**
 
 By relying on CSS Grid, the layout stays clean, responsive, and easy to manage.  
+
+## Live preview
+https://maqboolwebdev-stack.github.io/Holy-Grail-Mockup/
